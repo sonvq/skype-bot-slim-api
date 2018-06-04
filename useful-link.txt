@@ -1,0 +1,4 @@
+https://dev.botframework.com/bots
+https://kipalog.com/posts/Tao-Skype-Chatbot-voi-Microsoft-Bot-Framework-su-dung-REST-API
+https://medium.com/@tongvuu/h%C6%B0%E1%BB%9Bng-d%E1%BA%ABn-l%C3%A0m-chat-bot-tr%C3%AAn-skype-p1-7597a25c5a5a
+
